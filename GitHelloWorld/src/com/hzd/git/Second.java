@@ -5,4 +5,5 @@ public class Second {
 	//
 	String a;
 	String b;
+	String c;
 }
