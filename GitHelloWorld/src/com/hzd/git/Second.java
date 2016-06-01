@@ -5,4 +5,6 @@ public class Second {
 	//
 	String a;
 	String b;
+	//this is comments
+	String d;
 }
