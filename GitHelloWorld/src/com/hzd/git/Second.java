@@ -7,4 +7,5 @@ public class Second {
 	String b;
 	//this is comments
 	String d;
+	String c;
 }
